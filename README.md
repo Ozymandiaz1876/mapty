@@ -1,5 +1,5 @@
 # mapty
-A simple map application using leaflet api to find the use location and map workouts and runs on the map live.
+A simple map application using leaflet api to find the user location to map users workouts & runs on the live Map.
 
 # visit
 https://mapty-live-workout-manager.netlify.app/
